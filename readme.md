@@ -8,7 +8,7 @@ A simple demo application to show connection between a Spring Boot application a
 
 (também crie dependências separadas)
 
-## Running
+## Executando
 `docker-compose up`
 
 
