@@ -18,5 +18,5 @@ https://github.com/ibm-messaging/mq-container
 MQ JMS spring starter: 
 https://github.com/ibm-messaging/mq-jms-spring
 
-IBM JMS spring documentation: 
+Documentação do IBM JMS Spring: 
 https://developer.ib m.com/technologies/java/tutorials/mq-jms-application-development-with-spring-boot/#
