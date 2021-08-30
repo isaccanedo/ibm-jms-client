@@ -1,7 +1,7 @@
 # IBM JMS demo
 A simple demo application to show connection between a Spring Boot application and an IBM MQ Server, via queues.
 
-## Building
+## construção
 
 `mvn clean package`
 `docker-compose build`
