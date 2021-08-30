@@ -6,7 +6,7 @@ A simple demo application to show connection between a Spring Boot application a
 `mvn clean package`
 `docker-compose build`
 
-(also build separate dependencies)
+(também crie dependências separadas)
 
 ## Running
 `docker-compose up`
