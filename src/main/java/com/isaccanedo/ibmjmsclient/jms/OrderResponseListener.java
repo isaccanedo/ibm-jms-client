@@ -18,6 +18,6 @@ public class OrderResponseListener {
         log.info("### 4 ### Order Service received message response : {} with correlation id: {}",
                 textMessage.getText(), textMessage.getJMSCorrelationID());
 
-        // do some business logic here, like updating the order in the database
+        // faça alguma lógica de negócios aqui, como atualizar o pedido no banco de dados
     }
 }
